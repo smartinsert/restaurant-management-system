@@ -25,7 +25,7 @@ public class Main {
         noodles.addCategory(chinese);
 
         // Create Restaurants
-        final var restaurant1 = new Restaurant("Spicy Treats");
+        final var restaurant1 = new Restaurant("Spicy Treats!");
         restaurant1.addCategory(indian);
         restaurant1.addDish(biryani);
 
